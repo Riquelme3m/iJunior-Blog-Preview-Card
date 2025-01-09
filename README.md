@@ -14,7 +14,7 @@
 
 ### Links
 
-- Solution URL: [https://riquelme3m.github.io/iJunior-QR-Code-Challenge/](https://riquelme3m.github.io/iJunior-QR-Code-Challenge/)
+- Solution URL: [https://riquelme3m.github.io/iJunior-Blog-Preview-Card/](https://riquelme3m.github.io/iJunior-Blog-Preview-Card/)
 
 ### Built With
 
